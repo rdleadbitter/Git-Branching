@@ -1,1 +1,2 @@
 hello
+why is github refusing to merge my file without deleting the others :(
